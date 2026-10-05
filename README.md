@@ -8,7 +8,7 @@ Clone the repository into the Codex skills directory:
 
 ```bash
 mkdir -p ~/.codex/skills
-git clone https://github.com/YOUR-USERNAME/portfolio-mockups.git ~/.codex/skills/portfolio-mockups
+git clone https://github.com/A7medMajed16/portfolio-mockups.git ~/.codex/skills/portfolio-mockups
 ```
 
 Restart Codex, or start a new chat if the skill does not appear immediately.
