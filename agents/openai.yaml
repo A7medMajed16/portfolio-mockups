@@ -1,0 +1,4 @@
+interface:
+  display_name: "Portfolio Mockups"
+  short_description: "Generate polished app portfolio mockups"
+  default_prompt: "Use $portfolio-mockups to create polished portfolio mockups from this project’s finished app screenshots."
